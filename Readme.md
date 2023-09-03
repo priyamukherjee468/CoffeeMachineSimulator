@@ -56,3 +56,17 @@ To run the Coffee Machine Simulator, you need to have the following:
 * Java Development Kit (JDK) installed on your machine.
 * A Java compiler to compile the source code.
 * A Java Virtual Machine (JVM) to execute the compiled code.
+  ## Author
+
+👤 **Priya Mukherjee**
+
+* GitHub: [priyamukherjee468](https://github.com/priyamukherjee468)
+
+* LinkedIn: [Priya Mukherjee](www.linkedin.com/in/priya-mukherjee14)
+    
+    
+## Show your support
+
+Give a ⭐️ if this project helped you!
+    
+---
